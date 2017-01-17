@@ -1,0 +1,40 @@
+.navbar-header .navbar-brand {
+  font-family: 'Bungee Shade';
+  font-size: 36px;
+  color: #FFFFFF;
+  padding-top: 10px;
+}
+#navbartext {
+  color: #FFFFFF;
+}
+#wrapper {
+  text-align: center;
+  vertical-align: middle;
+  line-height: 100px;
+  font-family: 'Bevan';
+  font-size: 80px;
+  color: #FF0000;
+}
+#wrapper2 {
+  text-align: center;
+  vertical-align: middle;
+  color: #000000;
+}
+.jumbotron {
+  background-color: #000080;
+  color: #FFFFFF;
+}
+h2 {
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+}
+.navbar {
+  background-color: #000080;
+}
+#centerpic {
+  padding-left: 120px
+}
+.maintext {
+  padding-left: 120px
+}
